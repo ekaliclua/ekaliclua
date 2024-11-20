@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FiveM<br>🌱 I’m currently learning Rust<br>💬 Ask me about Lua/Mathematics
+🔭 I’m currently working on FiveM<br>💬 Ask me about Lua/Mathematics
 
 
 # 💻 Tech Stack:

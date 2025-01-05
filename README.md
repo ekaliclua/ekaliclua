@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  <img src="https://visitor-badge.glitch.me/badge?ekaliclua=ekaliclua" alt="visitor badge"/>  
 </p>

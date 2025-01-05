@@ -1,7 +1,7 @@
 <h1 align="center">Ekali</h1>
 
 <p align="center">
-  Étudiant en Sciences Informatiques.
+  Étudiant en Sciences Informatiques & Développeur.
 </p>
 
 ---
@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ekaliclua" alt="Nombre de visiteurs" />
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 </p>

@@ -1,24 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on FiveM<br>💬 Ask me about Lua/Mathematics
+<h1 align="center">Ekali</h1>
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=plastic&logo=lua&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=plastic&logo=yaml&logoColor=151515) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=plastic&logo=gitea&logoColor=5D9425)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ekaliclua&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ekaliclua&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ekaliclua&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ekaliclua&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ekaliclua&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  Étudiant en Sciences Informatiques.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ekaliclua&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ Compétences
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C/C++" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat-square&logo=debian&logoColor=white" alt="Debian" />
+  <img src="https://img.shields.io/badge/Windows-%230078D6.svg?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+</p>
+
+---
+
+### 📊 Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ekaliclua&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" alt="Stats GitHub" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaliclua&layout=compact&theme=github_dark&hide_border=true" alt="Langages les plus utilisés" height="150px" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ekaliclua" alt="Nombre de visiteurs" />
+</p>

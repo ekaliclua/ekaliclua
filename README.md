@@ -30,9 +30,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ekaliclua&show_icons=true&theme=github_dark&hide_title=true&hide_border=true&count_private=true" alt="Stats GitHub" height="150px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekaliclua&layout=compact&theme=github_dark&hide_border=true" alt="Langages les plus utilisés" height="150px" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ekaliclua.ekaliclua" alt="visitor badge"/>  
-</p>

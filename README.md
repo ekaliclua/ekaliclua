@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?ekaliclua=ekaliclua" alt="visitor badge"/>  
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ekaliclua" alt="visitor badge"/>  
 </p>

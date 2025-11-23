@@ -4,5 +4,4 @@ My interests include computer science, mathematics, and open-source collaboratio
 ## Education & Interests
 
 - **Field:** Computer Science / Mathematics
-- **Focus:** Algorithms, Data Structures, Theoretical Foundations, Programming
 - **Learning:** Always exploring new technologies and topics

@@ -1,7 +1,4 @@
-I am a computer science student and an academic enthusiast passionate about learning, research, and sharing knowledge.  
-My interests include computer science, mathematics, and open-source collaboration.
+Computer science student and developer.
 
-## Education & Interests
-
-- **Field:** Computer Science / Mathematics
-- **Learning:** Always exploring new technologies and topics
+Working on mini-game projects on **S&box**.  
+Developer at **Slanting Studio** (Unity, Ninja Road) on fivem.

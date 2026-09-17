@@ -27,7 +27,6 @@ Working at <span style="color:#facc15;"><b>Slanting Studio</b></span> on FiveM:
 <code>Lua</code>
 <code>Reverse Engineering</code>
 <code>Mathematics</code>
-<code>FiveM</code>
 
 </div>
 
